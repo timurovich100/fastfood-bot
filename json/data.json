@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Burger",
+    "price": "17.000",
+    "img": "https://gas-kvas.com/grafic/uploads/posts/2023-09/1695925251_gas-kvas-com-p-kartinki-burger-32.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Pizza",
+    "price": "80.000",
+    "img": "https://avatars.dzeninfra.ru/get-zen_doc/9366206/pub_6489c7055208a65c040c0dcf_6489c72685c3654e55190692/scale_1200"
+  },
+  {
+    "id": 3,
+    "name": "HotDog",
+    "price": "15.000",
+    "img": "https://mykaleidoscope.ru/x/uploads/posts/2022-09/1663842910_11-mykaleidoscope-ru-p-khot-dog-v-pite-yeda-krasivo-13.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Free",
+    "price": "12.000",
+    "img": "https://static.chibbis.ru/Images/Restaurants/%D0%A1%D0%B0%D0%BB%D0%B5%D1%85%D0%B0%D1%80%D0%B4/%D0%9F%D0%B8%D1%86%D1%86%D0%B0%20%D0%A5%D0%B0%D1%83%D1%81/Products/%D0%BA%D0%B0%D1%80%D1%82%D0%BE%D1%88%D0%BA%D0%B0%20%D1%84%D1%80%D0%B8.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Cake",
+    "price": "170.000",
+    "img": "https://i.pinimg.com/originals/2f/40/40/2f40406ee88a54fc7108f2f0a5d3cccc.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Cake",
+    "price": "20.000",
+    "img": "https://balthazar.club/uploads/posts/2022-10/1666363393_9-balthazar-club-p-keik-khoum-torti-krasivo-9.jpg"
+  }
+]
